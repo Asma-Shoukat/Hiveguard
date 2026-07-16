@@ -44,6 +44,7 @@
   - [Tabular Stacking Ensemble](#-tabular-stacking-ensemble-macro-sensor)
   - [CNN Vision Model](#-cnn-vision-model-micro-sensor)
 - [Tech Stack](#-tech-stack)
+- [System Pics](#-system-pics)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [API Reference](#-api-reference)
@@ -249,6 +250,22 @@ A parameter-efficient Convolutional Neural Network for visual diagnosis of *Varr
 | **Pillow** | Image preprocessing |
 | **joblib** | Model serialization |
 | **Docker** | Containerized deployment |
+
+---
+
+## 📸 System Pics
+
+Here are the live screenshots of the HiveGuard system running locally with active AI/ML engines:
+
+### 🏠 Dashboard (Home Screen)
+| ☀️ Light Mode | 🌙 Dark Mode |
+|:---:|:---:|
+| <img src="screenshots/dashboard_light.png" width="370" alt="Dashboard Light Mode" /> | <img src="screenshots/dashboard_dark.png" width="370" alt="Dashboard Dark Mode" /> |
+
+### 🔬 Core Functional Screens
+| 📋 Full Hive Analysis Form | 📷 Standalone Disease Scanner | ⚙️ App Settings |
+|:---:|:---:|:---:|
+| <img src="screenshots/analysis_form.png" width="240" alt="Full Hive Analysis Form" /> | <img src="screenshots/vision_screen.png" width="240" alt="Standalone Disease Scanner" /> | <img src="screenshots/settings_screen.png" width="240" alt="App Settings" /> |
 
 ---
 
