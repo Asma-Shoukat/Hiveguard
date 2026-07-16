@@ -434,19 +434,6 @@ docker run -p 7860:7860 hiveguard-backend
 
 ---
 
-## 🔧 Data Engineering Pipeline
-
-Built a robust feature space by merging **5 disparate public datasets** into a single, temporally aligned master matrix:
-
-| Step | Description |
-|------|-------------|
-| **Dimensionality Reduction** | Melted 574 wide-format weekly Kelvin temperature columns into US Quarters; extracted extreme weather duration ratios |
-| **Target Encoding** | Replaced categorical US State strings with historical mean colony loss percentages |
-| **Non-Linear Feature Engineering** | Custom `varroa_pesticide_synergy` metric capturing compound lethality |
-| **Spatial Validation** | 5-Fold GroupKFold by US State FIPS codes to eliminate spatial autocorrelation |
-| **Final Output** | **1,118 rows × 19 features**, spanning 2015–2021 |
-
----
 
 ## 🛡 Biological Rules Engine
 
@@ -463,26 +450,5 @@ The A\* Search Agent enforces **12 biological constraints** before recommending 
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Please follow these steps:
 
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-  <strong>Built with 🐝 by the HiveGuard Team</strong>
-  <br />
-  <em>Protecting pollinators through artificial intelligence</em>
-</p>
