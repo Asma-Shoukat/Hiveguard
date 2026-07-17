@@ -253,7 +253,7 @@ A parameter-efficient Convolutional Neural Network for visual diagnosis of *Varr
 
 ---
 
-## 📸 System Pics
+## 📸 System Imgs:
 
 Here are the live screenshots of the HiveGuard system running locally with active AI/ML engines:
 
@@ -265,7 +265,7 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 ### 🔬 Core Functional Screens
 | 📋 Full Hive Analysis Form | 📷 Standalone Disease Scanner | ⚙️ App Settings |
 |:---:|:---:|:---:|
-| <img src="screenshots/analysis_form.png" width="240" alt="Full Hive Analysis Form" /> | <img src="screenshots/vision_screen.png" width="240" alt="Standalone Disease Scanner" /> | <img src="screenshots/settings_screen.png" width="240" alt="App Settings" /> |
+| <img src="screenshots/analysis_form.png" width="370" alt="Full Hive Analysis Form" /> | <img src="screenshots/vision_screen.png" width="370" alt="Standalone Disease Scanner" /> | <img src="screenshots/settings_screen.png" width="370" alt="App Settings" /> |
 
 ### 🧠 AI Pipeline Results
 
@@ -273,7 +273,10 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 
 | 📊 Sensor Fusion + A* Results | 📜 Knowledge Base Inferences | 🩺 Beekeeper Prescription |
 |:---:|:---:|:---:|
-| <!-- Add: screenshots/results_sensor_fusion.png --> <img src="screenshots/results_sensor_fusion.png" width="240" alt="Sensor Fusion Results" /> | <!-- Add: screenshots/results_knowledge_base.png --> <img src="screenshots/results_knowledge_base.png" width="240" alt="Knowledge Base Results" /> | <!-- Add: screenshots/results_prescription.png --> <img src="screenshots/results_prescription.png" width="240" alt="Beekeeper Prescription" /> |
+| <!-- Add: screenshots/results_sensor_fusion.png --> <img src="screenshots/results_sensor_fusion.png" width="370" alt="Sensor Fusion Results" /> | <!-- Add: screenshots/results_knowledge_base.png --> <img src="<img width="412" height="781" alt="image" src="https://github.com/user-attachments/assets/f5112a73-4208-4e38-8a02-8ff3168cc6ed" />
+<img width="387" height="751" alt="image" src="https://github.com/user-attachments/assets/1a94783c-bffe-47ca-8f2c-3caef960447d" />
+" width="370" alt="Knowledge Base Results" /> | <!-- Add: screenshots/results_prescription.png --> <img src="<img width="386" height="725" alt="image" src="https://github.com/user-attachments/assets/0a883350-2c57-4d26-9b95-0128c9d461ab" />
+" /> |
 
 ---
 
