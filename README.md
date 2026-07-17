@@ -304,7 +304,8 @@ Complete AI reasoning pipeline demonstrating sensor fusion, knowledge-based infe
 </p>
 
 <p align="center">
-  <img src="screenshots/results_sensor_fusion.png" height="340" alt="Sensor Fusion Results"/>
+  <img src="<img width="405" height="748" alt="image" src="https://github.com/user-attachments/assets/80ddb31b-afd2-443c-9268-986053fc031e" />
+" height="340" alt="Sensor Fusion Results"/>
   &nbsp;&nbsp;&nbsp;
 
   <img src="https://github.com/user-attachments/assets/f5112a73-4208-4e38-8a02-8ff3168cc6ed" height="340" alt="Knowledge Base Inference"/>
