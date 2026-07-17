@@ -264,14 +264,14 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 <h3 align="center">🏠 Dashboard (Home Screen)</h3>
 
 <p align="center">
-  <img src="screenshots/dashboard_light.png" width="470" alt="Dashboard Light Mode"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/dashboard_dark.png" width="470" alt="Dashboard Dark Mode"/>
+  <img src="screenshots/dashboard_light.png" height="560" alt="Dashboard Light Mode"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/dashboard_dark.png" height="560" alt="Dashboard Dark Mode"/>
 </p>
 
 <p align="center">
   <b>☀️ Light Mode</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>🌙 Dark Mode</b>
 </p>
 
@@ -280,19 +280,19 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 <h3 align="center">🔬 Core Functional Screens</h3>
 
 <p align="center">
-  <img src="screenshots/analysis_form.png" width="310" alt="Full Hive Analysis Form"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/vision_screen.png" width="310" alt="Standalone Disease Scanner"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/settings_screen.png" width="310" alt="App Settings"/>
+  <img src="screenshots/analysis_form.png" height="420" alt="Full Hive Analysis Form"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/vision_screen.png" height="420" alt="Standalone Disease Scanner"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/settings_screen.png" height="420" alt="App Settings"/>
 </p>
 
 <p align="center">
   <b>📋 Full Hive Analysis</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>📷 Disease Scanner</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>⚙️ Settings</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>⚙️ App Settings</b>
 </p>
 
 ---
@@ -300,24 +300,24 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 <h2 align="center">🧠 AI Pipeline Results</h2>
 
 <p align="center">
-Screenshots below demonstrate the complete four-layer AI reasoning pipeline, including sensor fusion, knowledge base inference, and final beekeeper recommendations.
+Complete AI reasoning pipeline demonstrating sensor fusion, knowledge-based inference, and AI-generated beekeeper recommendations.
 </p>
 
 <p align="center">
-  <img src="screenshots/results_sensor_fusion.png" width="300" alt="Sensor Fusion Results"/>
-  &nbsp;&nbsp;
+  <img src="screenshots/results_sensor_fusion.png" height="340" alt="Sensor Fusion Results"/>
+  &nbsp;&nbsp;&nbsp;
 
-  <img src="https://github.com/user-attachments/assets/f5112a73-4208-4e38-8a02-8ff3168cc6ed" width="300" alt="Knowledge Base Results"/>
-  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f5112a73-4208-4e38-8a02-8ff3168cc6ed" height="340" alt="Knowledge Base Inference"/>
+  &nbsp;&nbsp;&nbsp;
 
-  <img src="https://github.com/user-attachments/assets/0a883350-2c57-4d26-9b95-0128c9d461ab" width="300" alt="Beekeeper Prescription"/>
+  <img src="https://github.com/user-attachments/assets/0a883350-2c57-4d26-9b95-0128c9d461ab" height="340" alt="Beekeeper Prescription"/>
 </p>
 
 <p align="center">
-  <b>📊 Sensor Fusion + A* Results</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📜 Knowledge Base Inferences</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>📊 Sensor Fusion + A*</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>📜 Knowledge Base Inference</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>🩺 Beekeeper Prescription</b>
 </p>
 ## 📁 Project Structure
