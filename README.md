@@ -273,9 +273,7 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 </p>
 
 <p align="center">
-  <b>☀️ Light Mode</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>🌙 Dark Mode</b>
+ 
 </p>
 
 ---
@@ -303,25 +301,29 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 <h2 align="center">🧠 AI Pipeline Results</h2>
 
 <p align="center">
-Complete AI reasoning pipeline demonstrating sensor fusion, knowledge-based inference, and AI-generated beekeeper recommendations.
+  Complete AI reasoning pipeline demonstrating sensor fusion, knowledge-based inference,
+  and AI-generated beekeeper recommendations.
 </p>
 
 <p align="center">
-  <img src="<img width="405" height="748" alt="image" src="https://github.com/user-attachments/assets/80ddb31b-afd2-443c-9268-986053fc031e" />
-" height="340" alt="Sensor Fusion Results"/>
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/80ddb31b-afd2-443c-9268-986053fc031e"
+       width="260"
+       alt="Sensor Fusion + A*"/>
 
-  <img src="https://github.com/user-attachments/assets/f5112a73-4208-4e38-8a02-8ff3168cc6ed" height="340" alt="Knowledge Base Inference"/>
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f5112a73-4208-4e38-8a02-8ff3168cc6ed"
+       width="260"
+       alt="Knowledge Base Inference"/>
 
-  <img src="https://github.com/user-attachments/assets/0a883350-2c57-4d26-9b95-0128c9d461ab" height="340" alt="Beekeeper Prescription"/>
+  <img src="https://github.com/user-attachments/assets/0a883350-2c57-4d26-9b95-0128c9d461ab"
+       width="260"
+       alt="Beekeeper Prescription"/>
 </p>
 
 <p align="center">
   <b>📊 Sensor Fusion + A*</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>📜 Knowledge Base Inference</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>🩺 Beekeeper Prescription</b>
 </p>
 ## 📁 Project Structure
