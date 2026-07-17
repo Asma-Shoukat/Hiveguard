@@ -297,37 +297,11 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 </p>
 
 ---
-<h2 align="center">📱 AI Analysis Pipeline</h2>
-
 <p align="center">
-Complete AI reasoning pipeline demonstrating sensor fusion, knowledge-based inference, and AI-generated beekeeper recommendations.
-</p>
+  <b>📋 AI Pipeline</b>
+<img width="1133" height="745" alt="image" src="https://github.com/user-attachments/assets/c9556069-c18d-44b7-90a8-dd4c10c8db18" />
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <img src="images/sensor_fusion.png" alt="Sensor Fusion + A*" width="230"><br><br>
-      <b>📊 Sensor Fusion + A*</b><br>
-      <sub>Initial hive assessment using sensor fusion and A* reasoning.</sub>
-    </td>
-
-    <td width="40"></td>
-
-    <td align="center" valign="top">
-      <img src="images/knowledge_base.png" alt="Knowledge Base Inference" width="230"><br><br>
-      <b>📜 Knowledge Base Inference</b><br>
-      <sub>Expert-system reasoning using production rules and forward chaining.</sub>
-    </td>
-
-    <td width="40"></td>
-
-    <td align="center" valign="top">
-      <img src="images/prescription.png" alt="Beekeeper Prescription" width="230"><br><br>
-      <b>🐝 Beekeeper Prescription</b><br>
-      <sub>AI-generated treatment plan, diagnosis, and actionable recommendations.</sub>
-    </td>
-  </tr>
-</table>
+  
 ## 📁 Project Structure
 
 ```
