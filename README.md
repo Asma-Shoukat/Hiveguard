@@ -265,8 +265,11 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 
 <p align="center">
   <img src="screenshots/dashboard_light.png" height="560" alt="Dashboard Light Mode"/>
+  <p align="center">
+  <b>☀️ Light Mode</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/dashboard_dark.png" height="560" alt="Dashboard Dark Mode"/>
+    <b>🌙 Dark Mode</b>
 </p>
 
 <p align="center">
