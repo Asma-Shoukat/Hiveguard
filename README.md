@@ -255,31 +255,35 @@ A parameter-efficient Convolutional Neural Network for visual diagnosis of *Varr
 
 ## 📸 System Imgs:
 
-Here are the live screenshots of the HiveGuard system running locally with active AI/ML engines:
+## 🖼️ Live Application Screenshots
 
-### 🏠 Dashboard (Home Screen)
-| ☀️ Light Mode | 🌙 Dark Mode |
-|:---:|:---:|
-| <img src="screenshots/dashboard_light.png" width="370" alt="Dashboard Light Mode" /> | <img src="screenshots/dashboard_dark.png" width="370" alt="Dashboard Dark Mode" /> |
-
-### 🔬 Core Functional Screens
-| 📋 Full Hive Analysis Form | 📷 Standalone Disease Scanner | ⚙️ App Settings |
-|:---:|:---:|:---:|
-| <img src="screenshots/analysis_form.png" width="370" alt="Full Hive Analysis Form" /> | <img src="screenshots/vision_screen.png" width="370" alt="Standalone Disease Scanner" /> | <img src="screenshots/settings_screen.png" width="370" alt="App Settings" /> |
-
-### 🧠 AI Pipeline Results
-
-> _Screenshots will be added here — showing the full 4-layer AI pipeline output._
-
-| 📊 Sensor Fusion + A* Results | 📜 Knowledge Base Inferences | 🩺 Beekeeper Prescription |
-|:---:|:---:|:---:|
-| <!-- Add: screenshots/results_sensor_fusion.png --> <img src="screenshots/results_sensor_fusion.png" width="370" alt="Sensor Fusion Results" /> | <!-- Add: screenshots/results_knowledge_base.png --> <img src="<img width="412" height="781" alt="image" src="https://github.com/user-attachments/assets/f5112a73-4208-4e38-8a02-8ff3168cc6ed" />
-<img width="387" height="751" alt="image" src="https://github.com/user-attachments/assets/1a94783c-bffe-47ca-8f2c-3caef960447d" />
-" width="370" alt="Knowledge Base Results" /> | <!-- Add: screenshots/results_prescription.png --> <img src="<img width="386" height="725" alt="image" src="https://github.com/user-attachments/assets/0a883350-2c57-4d26-9b95-0128c9d461ab" />
-" /> |
+Here are the live screenshots of the HiveGuard system running locally with active AI/ML engines.
 
 ---
 
+### 🏠 Dashboard (Home Screen)
+
+| ☀️ Light Mode | 🌙 Dark Mode |
+|:-------------:|:------------:|
+| <img src="screenshots/dashboard_light.png" width="450" alt="Dashboard Light Mode" /> | <img src="screenshots/dashboard_dark.png" width="450" alt="Dashboard Dark Mode" /> |
+
+---
+
+### 🔬 Core Functional Screens
+
+| 📋 Full Hive Analysis Form | 📷 Standalone Disease Scanner | ⚙️ App Settings |
+|:--------------------------:|:-----------------------------:|:---------------:|
+| <img src="screenshots/analysis_form.png" width="420" alt="Full Hive Analysis Form" /> | <img src="screenshots/vision_screen.png" width="420" alt="Standalone Disease Scanner" /> | <img src="screenshots/settings_screen.png" width="420" alt="App Settings" /> |
+
+---
+
+## 🧠 AI Pipeline Results
+
+> Screenshots below demonstrate the complete four-layer AI reasoning pipeline, including sensor fusion, knowledge base inference, and final beekeeper recommendations.
+
+| 📊 Sensor Fusion + A* Results | 📜 Knowledge Base Inferences | 🩺 Beekeeper Prescription |
+|:-----------------------------:|:----------------------------:|:------------------------:|
+| <img src="screenshots/results_sensor_fusion.png" width="430" alt="Sensor Fusion Results" /> | <img src="https://github.com/user-attachments/assets/f5112a73-4208-4e38-8a02-8ff3168cc6ed" width="430" alt="Knowledge Base Result 1" /><br><br><img src="https://github.com/user-attachments/assets/1a94783c-bffe-47ca-8f2c-3caef960447d" width="430" alt="Knowledge Base Result 2" /> | <img src="https://github.com/user-attachments/assets/0a883350-2c57-4d26-9b95-0128c9d461ab" width="430" alt="Beekeeper Prescription" /> |
 ## 📁 Project Structure
 
 ```
