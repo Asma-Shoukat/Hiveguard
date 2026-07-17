@@ -297,39 +297,37 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 </p>
 
 ---
-<h2 align="center">🧠 AI Pipeline Results</h2>
+<h2 align="center">📱 AI Analysis Pipeline</h2>
 
 <p align="center">
-Complete AI reasoning pipeline demonstrating sensor fusion, knowledge-based inference,
-and AI-generated beekeeper recommendations.
+Complete AI reasoning pipeline demonstrating sensor fusion, knowledge-based inference, and AI-generated beekeeper recommendations.
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/80ddb31b-afd2-443c-9268-986053fc031e"
-       height="260"
-       alt="Sensor Fusion + A*"/>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="images/sensor_fusion.png" alt="Sensor Fusion + A*" width="230"><br><br>
+      <b>📊 Sensor Fusion + A*</b><br>
+      <sub>Initial hive assessment using sensor fusion and A* reasoning.</sub>
+    </td>
 
-  &nbsp;&nbsp;
+    <td width="40"></td>
 
-  <img src="https://github.com/user-attachments/assets/f5112a73-4208-4e38-8a02-8ff3168cc6ed"
-       height="260"
-       alt="Knowledge Base Inference"/>
+    <td align="center" valign="top">
+      <img src="images/knowledge_base.png" alt="Knowledge Base Inference" width="230"><br><br>
+      <b>📜 Knowledge Base Inference</b><br>
+      <sub>Expert-system reasoning using production rules and forward chaining.</sub>
+    </td>
 
-  &nbsp;&nbsp;
+    <td width="40"></td>
 
-  <img src="https://github.com/user-attachments/assets/0a883350-2c57-4d26-9b95-0128c9d461ab"
-       height="260"
-       alt="Beekeeper Prescription"/>
-</p>
-
-<p align="center">
-  <b>📊 Sensor Fusion + A*</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>📜 Knowledge Base Inference</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>🩺 Beekeeper Prescription</b>
-</p>
-
+    <td align="center" valign="top">
+      <img src="images/prescription.png" alt="Beekeeper Prescription" width="230"><br><br>
+      <b>🐝 Beekeeper Prescription</b><br>
+      <sub>AI-generated treatment plan, diagnosis, and actionable recommendations.</sub>
+    </td>
+  </tr>
+</table>
 ## 📁 Project Structure
 
 ```
