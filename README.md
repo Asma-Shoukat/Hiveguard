@@ -267,6 +267,14 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 |:---:|:---:|:---:|
 | <img src="screenshots/analysis_form.png" width="240" alt="Full Hive Analysis Form" /> | <img src="screenshots/vision_screen.png" width="240" alt="Standalone Disease Scanner" /> | <img src="screenshots/settings_screen.png" width="240" alt="App Settings" /> |
 
+### 🧠 AI Pipeline Results
+
+> _Screenshots will be added here — showing the full 4-layer AI pipeline output._
+
+| 📊 Sensor Fusion + A* Results | 📜 Knowledge Base Inferences | 🩺 Beekeeper Prescription |
+|:---:|:---:|:---:|
+| <!-- Add: screenshots/results_sensor_fusion.png --> <img src="screenshots/results_sensor_fusion.png" width="240" alt="Sensor Fusion Results" /> | <!-- Add: screenshots/results_knowledge_base.png --> <img src="screenshots/results_knowledge_base.png" width="240" alt="Knowledge Base Results" /> | <!-- Add: screenshots/results_prescription.png --> <img src="screenshots/results_prescription.png" width="240" alt="Beekeeper Prescription" /> |
+
 ---
 
 ## 📁 Project Structure
