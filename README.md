@@ -298,7 +298,7 @@ Here are the live screenshots of the HiveGuard system running locally with activ
 
 ---
 <p align="center">
-  <b>📋 AI Pipeline</b>
+
 <img width="1133" height="745" alt="image" src="https://github.com/user-attachments/assets/c9556069-c18d-44b7-90a8-dd4c10c8db18" />
 
   
